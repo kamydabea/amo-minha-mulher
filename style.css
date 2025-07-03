@@ -1,5 +1,39 @@
 body{
     color:#ff0000 ;
     background-color: #3f3f41;
+    margin: 0px;
+    margin-bottom: 100px;
+}
 
+
+header{
+     border-bottom: solid 2px #00FF7F; 
+    margin: 20px;
+    font-size: 32px;
+    color:#008080;
+}
+
+section{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: #2E8B57;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color:aqua;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.chamada-texto{
+    margin-right: 1%;
+    text-align: center;
+    padding: 20px;
+    background-color: antiquewhite;
+    color: aquamarine;
 }
